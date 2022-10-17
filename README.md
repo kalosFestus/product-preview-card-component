@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/kalosFestus/product-preview-card-component)
 - Live Site URL: [Add live site URL here](https://kalosfestus.github.io/product-preview-card-component/)
 
 ## My process
