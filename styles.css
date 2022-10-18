@@ -33,15 +33,15 @@
     border-radius:0 2% 2% 0;
 }
 
-h1, h2{
+h1, .price{
     color: hsl(212, 21%, 14%);
-    font-size: 25px;
+    font-size: 28px;
     width: 85%;
     font-weight: 700;
     font-family: Fraunces;
 }
 
-h2{
+.price{
     color: hsl(158, 36%, 37%);
 }
 
